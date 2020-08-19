@@ -2,7 +2,7 @@ resume
 ---
 
 # About
-[@__y-ohgi](https://twitter.com/_y_ohgi) の履歴書兼職務経歴書です。
+[@_y_ohgi](https://twitter.com/_y_ohgi) の履歴書兼職務経歴書です。
 
 # Contact
 | Site | Link |
@@ -16,7 +16,12 @@ resume
 
 
 # Resume
-## 2019/08 - 
+## 2020/01 -
+現在はフリーランスとして活動をしています。  
+お仕事のお話などがあればお気軽にお声がけください 🙏
+
+---
+## 2019/08 - 2019/12
 ### 合同会社DMM.com CTO室
 所属していたSREチームがSRE"部"になると同時にCTO室へ転属しました。  
 モチベーションとしては社内へ「クラウドインフラの知見を広めたいこと」にあります。  
@@ -112,7 +117,7 @@ Scala, Ruby, Node.js, lambda, docker-compose, Docker, CloudFormation, AWS, ECS
 ## 2017/04 - 合同会社DMM.com 入社
 日本有数のトラフィックの高さに魅力を感じ入社を決めました。
 
-
+---
 ## その他
 ### 2019/03 - 2019/04 さくらインターネット
 vue.js, RaspberryPi, Python, Kubernetes, Flask, Express, Docker

@@ -11,6 +11,7 @@ resume
 | Facebook | [ogi.yusuke](https://www.facebook.com/ohgi.yuusuke) |
 | GitHub | [y-ohgi](https://github.com/y-ohgi) |
 | Blog | [y-ohgi's blog](http://y-ohgi.hatenablog.com/) |
+| SpeakerDeck | [y-ohgi (@y0hgi) on Speaker Deck](https://speakerdeck.com/y0hgi) |
 
 ※ Twitterがレス早いです。
 
@@ -166,7 +167,5 @@ Web屋さんはいくつかお世話になったのですが、特に記憶に�
 
 ---
 # その他アウトプット
-- [y-ohgi (@y0hgi) on Speaker Deck](https://speakerdeck.com/y0hgi)
-  - 過去の登壇資料です
 - [入門 Docker](https://y-ohgi.com/introduction-docker/)
   - Docker入門者向けのgitbookです

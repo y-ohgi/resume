@@ -11,7 +11,7 @@ resume
 | Facebook | [ogi.yusuke](https://www.facebook.com/ohgi.yuusuke) |
 | GitHub | [y-ohgi](https://github.com/y-ohgi) |
 | Blog | [y-ohgi's blog](http://y-ohgi.hatenablog.com/) |
-| SpeakerDeck | [y-ohgi (@y0hgi) on Speaker Deck](https://speakerdeck.com/y0hgi) |
+| Speaker Deck | [y-ohgi (@y0hgi)](https://speakerdeck.com/y0hgi) |
 
 ※ Twitterがレス早いです。
 

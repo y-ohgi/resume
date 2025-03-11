@@ -178,5 +178,5 @@ Web屋さんはいくつかお世話になったのですが、特に記憶に�
   - 2023年7月から、JAWS-UG東京支部の運営をやっております。
 - [入門 Docker](https://y-ohgi.com/introduction-docker/)
   - Docker入門者向けのgitbookを作成しました。
-- [はじめてのSRE：サービスを止めない仕事術 - Aidemy](https://aidemy-guest.dev.aidemy.jp/courses/3005)
-  - 株式会社AidemyでSREについてのコースを作成しました。
+- 「はじめてのSRE：サービスを止めない仕事術 - Aidemy」
+  - 株式会社アイデミー様で、SREについて説明する動画（コース）の作成に携わらせていただきました。

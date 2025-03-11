@@ -16,15 +16,21 @@ resume
 ※ Twitterがレス早いです。
 
 # Resume
-## 2020/01 - 
-現在フリーランスとして活動をしています。  
+## 2024/11 ~
+### 株式会社Topotal
+現在は"SRE as a Service"という、他社様との伴走型のSRE支援をさせていただいております。  
+[【入社エントリ】株式会社Topotalに入社して3ヶ月が経ちました - y-ohgi's blog](https://y-ohgi.blog/entry/2025/02/05/%E3%80%90%E5%85%A5%E7%A4%BE%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%80%91%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEtopotal%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%A63%E3%83%B6%E6%9C%88%E3%81%8C%E7%B5%8C%E3%81%A1)
+
+## 2020/01 ~
 フルタイムでSRE としてして働かせていただいたり、技術顧問としてお手伝いさせていただいたり、スタートアップの立ち上げなどに携わらせていただいております。  
-主にAWS/GCPのクラウドインフラエンジニアとして、案件に携わらせていただくことが多いです。  
+AWS/Google Cloudのクラウドインフラエンジニアとしてが半分、フルスタックとして携わらせていただくのが半分ほどでした。  
 NDAの問題で直接記載することが難しいため、直接聞いて頂けると幸いです。
 
 使用した技術スタックは以下になります。
 
 TypeScript, Next.js, Golang, GKE, ECS, Cloud Run, Terraform, CDK, etc...
+
+現在も個人事業主として副業を受け付けております。
 
 ## 2021/3〜2021/9
 ### 合同会社voicheer
@@ -166,6 +172,11 @@ Web屋さんはいくつかお世話になったのですが、特に記憶に�
 モニタリングツールの選定導入とかコンテナ化とかとか、今思えばSRE的な業務をしてた感じですね。  
 
 ---
-# その他アウトプット
+
+# Other
+- [JAWS-UG東京 - connpass](https://jawsug.connpass.com/)
+  - 2023年7月から、JAWS-UG東京支部の運営をやっております。
 - [入門 Docker](https://y-ohgi.com/introduction-docker/)
-  - Docker入門者向けのgitbookです
+  - Docker入門者向けのgitbookを作成しました。
+- [はじめてのSRE：サービスを止めない仕事術 - Aidemy](https://aidemy-guest.dev.aidemy.jp/courses/3005)
+  - 株式会社AidemyでSREについてのコースを作成しました。
